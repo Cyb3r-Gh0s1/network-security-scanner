@@ -6,6 +6,12 @@ A professional, modular network security scanner with **plugin-based architectur
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Version](https://img.shields.io/badge/version-2.0.0-brightgreen.svg)
 
+## Screen Shots
+<img width="1920" height="976" alt="python network_scanner py -t scanme nmap org" src="https://github.com/user-attachments/assets/3b255adf-121a-4777-90a8-efcba992bcf3" />
+<img width="1920" height="1020" alt="python network_scanner py -t scanme nmap org --thorough --cve --shodan -s " src="https://github.com/user-attachments/assets/77ea13a6-34b8-4b83-8ff2-9a31cae6ba02" />
+<img width="1920" height="978" alt="python network_scanner py --hlp" src="https://github.com/user-attachments/assets/a3e855e2-7e55-4190-81ef-af3a9608ca5c" />
+
+
 ## ⚡ Quick Start (Kali Linux)
 
 ```bash
